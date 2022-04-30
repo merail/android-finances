@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392093665834",
+    "project_id": "finances-34dc5",
+    "storage_bucket": "finances-34dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392093665834:android:21f5eaef88037958a95153",
+        "android_client_info": {
+          "package_name": "me.rail.finances"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392093665834-ioougfhin97u57muiq80niq5pfedh4ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCckP4dSqUVa-fQAMlcQpx-9DNOXSkzzUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392093665834-ioougfhin97u57muiq80niq5pfedh4ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
